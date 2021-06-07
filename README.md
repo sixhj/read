@@ -1,1 +1,9 @@
 # read
+
+
+
+# linux 
+
+# mysql
+
+
